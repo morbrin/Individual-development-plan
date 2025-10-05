@@ -61,3 +61,7 @@
 | 1 | [добавлена отдельная реализация фиксации данных](https://gitlab.iccdev.ru/atollis/ggis/3d-backend-bo-templates/-/merge_requests/290)
 | 2 | [добавлена стандартная фильтрация для фиксированных данных](https://gitlab.iccdev.ru/atollis/ggis/3d-backend-objects/-/merge_requests/692)
 ---
+
+
+## Покрытие тестами
+<img width="1920" height="254" alt="изображение" src="https://github.com/user-attachments/assets/f16f5d07-326f-41ee-84c4-cd09239d3ca7" />
